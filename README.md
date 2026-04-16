@@ -19,5 +19,12 @@ Pictures from the project
 ---
 <img width="788" height="525" alt="distripution between price , size" src="https://github.com/user-attachments/assets/cf34dde2-18ea-47dc-af7d-92aacf9058fa" />
 
-Dashboard images (by Looker Studio) :
+---
+[2] Pictures of Report :
+
+<img width="714" height="602" alt="Report 1" src="https://github.com/user-attachments/assets/e01bee60-7071-44ef-a644-0eae95189d82" />
+
+<img width="713" height="601" alt="Report 2" src="https://github.com/user-attachments/assets/a3adf271-6c9b-47f4-ba19-d2652b9d0c1e" />
+
+[3] Dashboard images (by Looker Studio) :
 <img width="1095" height="583" alt="Dashboard (By Looker Studio)" src="https://github.com/user-attachments/assets/162291e6-5c60-40c1-9132-45a8f38e4f1f" />
