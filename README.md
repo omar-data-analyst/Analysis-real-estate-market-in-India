@@ -1,6 +1,26 @@
 # Analysis-real-estate-market-in-India
-Analysis of 29,450 records of real estate offered for sale in different geographical locations in India.
-Each record includes information such as property price, area, number of rooms, type of owner, etc
+Analysis of 29,450 records of real estate offered for sale in different geographical
+locations in India.
+Each record includes information such as property price, area, number of rooms,
+type of owner, etc
+
+* This helps in understanding the overall market pattern and the most important factors
+  affecting property prices.
+
+* I performed the analysis, cleaning, modification, and in-depth analysis using Python.
+
+* Then, I created a professional dashboard (using Looker Studio) that compiles all the graphs
+  extracted from the analysis to provide a complete analytical overview in one place.
+
+## The technical methodology I used for cleaning:
+
+1- I removed anomalous\Outliers prices that would affect the descriptive analysis of property pricing factors.
+
+2- I also removed some records whose coordinates lie outside the geographical area of ​​India.
+   These records represent only a very small percentage of the data,
+   and will not affect the analysis process, thus ensuring the accuracy of the geographic information.
+   I have compiled all the conclusions that are useful to investors in the market, as well as those wishing
+   to buy property, into a file called Final Report.PDF
 
 ## Link of Dataset of Project from Kaggele : 
 https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge?resource=download
@@ -28,10 +48,3 @@ https://datastudio.google.com/reporting/9e32188e-9e2c-46c7-a9d4-bd197126d037
 
 [3] Dashboard images (by Looker Studio) :
 <img width="1095" height="583" alt="Dashboard (By Looker Studio)" src="https://github.com/user-attachments/assets/162291e6-5c60-40c1-9132-45a8f38e4f1f" />
-
-
-## Some Editing & Cleaning Steps :
-* I removed the anomalous prices from the data, and I also removed some records that were geographically located in locations outside India,     because they belong to India, but there is an error in the coordinates.
-
-* I conducted an analysis to understand the market pattern and extracted a conclusion that benefits both investors in the market, as well as     those wishing to buy a property, and also benefits investors in general.
-
